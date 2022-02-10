@@ -1,5 +1,3 @@
-## CorrecaoValores
-
 ## Descrição do exercício
 Um cenário de teste foi criado para validar a geração de parcelas de um orçamento. 
 Esse cenário de teste espera que o valor total do orçamento seja igual ao valor da soma das parcelas.
