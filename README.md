@@ -3,6 +3,10 @@ Um cenário de teste foi criado para validar a geração de parcelas de um orça
 Esse cenário de teste espera que o valor total do orçamento seja igual ao valor da soma das parcelas.
 Você precisará construir uma solução que faça esse teste passar.
 
+## Neste caso
+Os models, classes e a correção dos valores das parcelas se encontram nos arquivos Orcamento, Parcela e GeradorDeParcelas.
+Para você realizar o exercício, crie-os novamente.
+
 ## Você precisará
 1. Criar os models (Orcamento, Parcela). Dê uma olhada no teste e tente entender a estrutura desses models.
 2. Criar uma classe responsável por gerar as parcelas do orçamento (GeradorDeParcelas). Olhe o teste e tente identificar os métodos e/ou propriedades esperadas;
